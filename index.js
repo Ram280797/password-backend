@@ -13,7 +13,7 @@ const nodemailer = require("nodemailer");
 
 app.use(
   cors({
-    orgin:"http://localhost:3000/"
+    orgin:"https://willowy-boba-d08696.netlify.app/" 
   })
 );
 
